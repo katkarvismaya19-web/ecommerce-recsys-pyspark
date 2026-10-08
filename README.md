@@ -4,7 +4,7 @@ Big Data Analytics, Assignment 10, BE Computer Engineering (Sem 7), Vidyalankar 
 
 **Authors:** Vismaya Katkar (23102B0069) and Unnati Buddhiwant (24102B2002). See [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 
-**Blog post:** _add your Medium link here_
+**Blog post:** https://medium.com/@katkarvismaya19/beyond-bestsellers-building-a-scalable-e-commerce-recommender-with-pyspark-als-95781ddca519)
 
 An end-to-end recommender built on a real e-commerce transaction log (UCI Online Retail II, 1.07M lines). It covers Spark cleaning, an implicit-feedback signal, distributed ALS with a time-based train/test split, and an honest comparison against two baselines.
 
