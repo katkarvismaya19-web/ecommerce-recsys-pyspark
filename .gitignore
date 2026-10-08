@@ -1,0 +1,9 @@
+data/*.csv
+data/*.parquet
+models/
+spark-warehouse/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+metastore_db/
+derby.log

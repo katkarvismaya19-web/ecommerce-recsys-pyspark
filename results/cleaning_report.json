@@ -1,0 +1,13 @@
+{
+  "raw_rows": 1067371,
+  "after_dedup": 1033036,
+  "after_drop_null_customer": 797885,
+  "after_drop_cancel_neg": 779425,
+  "clean_rows": 776577,
+  "clean_customers": 5852,
+  "clean_products": 4619,
+  "clean_invoices": 36594,
+  "interaction_events": 766079,
+  "unique_customer_product_pairs": 480971,
+  "matrix_density_pct": 1.779
+}

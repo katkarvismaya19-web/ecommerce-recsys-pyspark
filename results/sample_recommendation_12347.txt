@@ -1,0 +1,19 @@
+
+Top 10 recommendations for customer 12347:
+  22467    GUMBALL COAT RACK                        score=0.628
+  21977    PACK OF 60 PINK PAISLEY CAKE CASES       score=0.621
+  22730    ALARM CLOCK BAKELIKE IVORY               score=0.609
+  22192    BLUE DINER WALL CLOCK                    score=0.574
+  21669    BLUE STRIPE CERAMIC DRAWER KNOB          score=0.541
+  22191    EAU DE NIL DINER WALL CLOCK              score=0.504
+  22197    POPCORN HOLDER , SMALL                   score=0.503
+  21671    RED SPOT CERAMIC DRAWER KNOB             score=0.500
+  21668    RED STRIPE CERAMIC DRAWER KNOB           score=0.498
+  21212    PACK OF 72 RETRO SPOT CAKE CASES         score=0.495
+
+What this customer bought most often (for context):
+  22375    AIRLINE BAG VINTAGE JET SET BROWN        orders=6
+  84558A   3D DOG PICTURE PLAYING CARDS             orders=6
+  22727    ALARM CLOCK BAKELIKE RED                 orders=5
+  20719    WOODLAND CHARLOTTE BAG                   orders=5
+  21731    RED TOADSTOOL LED NIGHT LIGHT            orders=5

@@ -1,0 +1,183 @@
+{
+  "monthly": [
+    {
+      "month": "2009-12",
+      "revenue": 677916.0,
+      "customers": 951
+    },
+    {
+      "month": "2010-01",
+      "revenue": 533713.0,
+      "customers": 701
+    },
+    {
+      "month": "2010-02",
+      "revenue": 497938.0,
+      "customers": 771
+    },
+    {
+      "month": "2010-03",
+      "revenue": 665974.0,
+      "customers": 1051
+    },
+    {
+      "month": "2010-04",
+      "revenue": 585127.0,
+      "customers": 939
+    },
+    {
+      "month": "2010-05",
+      "revenue": 592734.0,
+      "customers": 965
+    },
+    {
+      "month": "2010-06",
+      "revenue": 628809.0,
+      "customers": 1034
+    },
+    {
+      "month": "2010-07",
+      "revenue": 581488.0,
+      "customers": 924
+    },
+    {
+      "month": "2010-08",
+      "revenue": 594561.0,
+      "customers": 910
+    },
+    {
+      "month": "2010-09",
+      "revenue": 805545.0,
+      "customers": 1136
+    },
+    {
+      "month": "2010-10",
+      "revenue": 1011557.0,
+      "customers": 1492
+    },
+    {
+      "month": "2010-11",
+      "revenue": 1155978.0,
+      "customers": 1606
+    },
+    {
+      "month": "2010-12",
+      "revenue": 565200.0,
+      "customers": 884
+    },
+    {
+      "month": "2011-01",
+      "revenue": 562683.0,
+      "customers": 739
+    },
+    {
+      "month": "2011-02",
+      "revenue": 442294.0,
+      "customers": 757
+    },
+    {
+      "month": "2011-03",
+      "revenue": 583144.0,
+      "customers": 973
+    },
+    {
+      "month": "2011-04",
+      "revenue": 454441.0,
+      "customers": 853
+    },
+    {
+      "month": "2011-05",
+      "revenue": 659242.0,
+      "customers": 1054
+    },
+    {
+      "month": "2011-06",
+      "revenue": 653265.0,
+      "customers": 990
+    },
+    {
+      "month": "2011-07",
+      "revenue": 591604.0,
+      "customers": 946
+    },
+    {
+      "month": "2011-08",
+      "revenue": 635514.0,
+      "customers": 933
+    },
+    {
+      "month": "2011-09",
+      "revenue": 938753.0,
+      "customers": 1259
+    },
+    {
+      "month": "2011-10",
+      "revenue": 1002327.0,
+      "customers": 1361
+    },
+    {
+      "month": "2011-11",
+      "revenue": 1136534.0,
+      "customers": 1660
+    }
+  ],
+  "products_for_50pct_of_purchases": 635,
+  "products_for_80pct_of_purchases": 1608,
+  "total_products": 4619,
+  "customer_products_median": 45.0,
+  "customer_orders_median": 3.0,
+  "customers_single_order_pct": 27.6,
+  "top_products": [
+    {
+      "StockCode": "85123A",
+      "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "buyers": 1490
+    },
+    {
+      "StockCode": "22423",
+      "Description": "REGENCY CAKESTAND 3 TIER",
+      "buyers": 1314
+    },
+    {
+      "StockCode": "22138",
+      "Description": "BAKING SET 9 PIECE RETROSPOT ",
+      "buyers": 1137
+    },
+    {
+      "StockCode": "21212",
+      "Description": "PACK OF 72 RETROSPOT CAKE CASES",
+      "buyers": 1115
+    },
+    {
+      "StockCode": "84879",
+      "Description": "ASSORTED COLOUR BIRD ORNAMENT",
+      "buyers": 1010
+    },
+    {
+      "StockCode": "85099B",
+      "Description": "JUMBO BAG RED WHITE SPOTTY ",
+      "buyers": 978
+    },
+    {
+      "StockCode": "22139",
+      "Description": "RETROSPOT TEA SET CERAMIC 11 PC ",
+      "buyers": 941
+    },
+    {
+      "StockCode": "22086",
+      "Description": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+      "buyers": 896
+    },
+    {
+      "StockCode": "47566",
+      "Description": "PARTY BUNTING",
+      "buyers": 894
+    },
+    {
+      "StockCode": "22469",
+      "Description": "HEART OF WICKER SMALL",
+      "buyers": 886
+    }
+  ],
+  "uk_revenue_pct": 83.7
+}
